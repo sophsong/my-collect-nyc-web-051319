@@ -2,9 +2,9 @@
 
 def my_collect (array)
   i=0
-  collect = ["Tim Jones", "Tom Smith"]
+  collect = []
   while i<array.length
-  collect<< yield(array[i]))
+  collect<< yield(array[i])
   
   
   

@@ -8,9 +8,9 @@ def my_collect (array)
   
   
   
-  i=i+1
+  i+=1
   
 end
-collection
+collect
 end
   
